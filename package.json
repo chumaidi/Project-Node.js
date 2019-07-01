@@ -1,0 +1,21 @@
+{
+  "name": "hij",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "styles": [
+    "node_modules/bootstrap/dist/css/bootstrap.min.css"
+  ],
+  "dependencies": {
+    "bootstrap": "^4.3.1",
+    "chalk-animation": "^1.6.0",
+    "sweetalert": "^2.1.2",
+    "word-table": "^1.0.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "description": ""
+}
